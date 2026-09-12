@@ -3,7 +3,7 @@ library(purrr)
 library(ggplot2)
 library(factoextra)
 
-custsales=read.csv("C:/Users/Aye.Yupar/2026_dss/Customer Segments.csv")
+custsales=read.csv("~/Customer Segments.csv")
 head(custsales)
 
 dim(custsales)
