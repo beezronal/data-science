@@ -1,4 +1,4 @@
-# This is the data science learning footprints
+# Data Science learning footprints
 
 Date: 12 September 2026
 ### K-Means and Cluster Analysis in R and Python
